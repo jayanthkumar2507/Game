@@ -1,5 +1,5 @@
 import random
-print("Hi🖐👋! Welcome to my game : Guessing a number.\nYou have 10 chances to guess the number.\nStart🎷! ") 
+print("Hi🖐👋! Welcome to my game : Guessing a number.\nYou have 7 chances to guess the number.\nStart🎷! ") 
 low = int (input ("Set a low Value") ) 
 high=int (input ("Set a high Value") ) 
 print (f"You have to guess number between{low}and{high}within 7 chances.\nStart!") 
